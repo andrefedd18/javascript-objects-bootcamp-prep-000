@@ -1,2 +1,2 @@
 var playlist= {}
-function upd
+playlist.MinnieRiperton
