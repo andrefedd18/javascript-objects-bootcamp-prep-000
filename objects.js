@@ -1,3 +1,8 @@
 var playlist= {}
 playlist.MinnieRiperton = 'Feelin That Your Feelin Good'
-function updatePlaylist (playlist, artist, song)
+function updatePlaylist (playlist, artist, song) { 
+  playlist[artist]= song 
+  return playlist
+  
+  
+}
