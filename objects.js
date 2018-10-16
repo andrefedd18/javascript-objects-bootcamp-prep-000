@@ -1,2 +1,2 @@
 var playlist = {artist: "Minnie Riperton", };
-Function 
+function 
