@@ -1,2 +1,2 @@
 var playlist= {}
-playlist.MinnieRiperton
+playlist.MinnieRiperton = 'Feelin That Your Feelin Good'
